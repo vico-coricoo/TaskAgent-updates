@@ -97,7 +97,7 @@ Le système vous demandera si vous souhaitez remplacer l'ancienne version : <b>C
 
 --------------------------------------------
 
-#### 🎨 Style de l'app
+### 🎨 Style de l'app
 TaskAgent reprend le style moderne et épuré de MacOS Tahoe, avec de nombreux effets [*LiquidGlass*](https://www.youtube.com/watch?v=jGztGfRujSE).
 L'application est conçue pour gagner du temps, grâce à son ergonomie et sa simplicité d'usage.
 
@@ -111,3 +111,10 @@ L'application est conçue pour gagner du temps, grâce à son ergonomie et sa si
     <td><img src="assets/blocking_page.jpg" width="500" alt="Blocage de compte"></td>
   </tr>
 </table>
+
+
+### 📋 Listing dans la barre des menus
+
+Le menu accessible depuis la barre supérieure de MacOS permet de consulter à n'importe quel moment l'état des différents comptes connectés.
+Cliqez sur un compte disponibles (pastille 🟢 ou 🟠) pour l'ouvrir directement dnas l'application TaskAgent.
+![menubarGIF](menubar_video.gif)
