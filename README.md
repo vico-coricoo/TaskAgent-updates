@@ -10,7 +10,7 @@ TaskAgent est une application développée pour [MacOS (26.0 & ultérieur)](http
 
 ### ♾️ Connexion sans limites
 Connectez tous les services d'IA que vous utilisez fréquemment (ex: [Claude](https://claude.ai/), [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/), et bien d'autres encore), puis retrouvez-les dans le panneau de gestion de l'application.
-<img src="assets/IASelector" width="800" alt="Sélection de service">
+<img src="assets/IASelector.png" width="750" alt="Sélection de service">
 
 Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :  
 <table>
@@ -62,12 +62,12 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
 
 ### 🔔 Notifications
 TaskAgent peut vous envoyez des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
-<img src="assets/notifications.png" width="500" alt="Notifications">
+<img src="assets/notifications.png" width="300" alt="Notifications">
 
 
 ### 🔄 Proposition automatique des mises-à-jour au lancement de l'app
 Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
-<img src="assets/update_popup.png" width="700" alt="MAJ">
+<img src="assets/update_popup.png" width="600" alt="MAJ">
 
 Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
 Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cliquez sur *Remplacer***
