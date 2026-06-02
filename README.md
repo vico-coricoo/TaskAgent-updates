@@ -101,7 +101,7 @@ L'application est conçue pour gagner du temps, grâce à son ergonomie et sa si
     <th>Page de blocage de compte</th>
   </tr>
   <tr>
-    <td><img src="assets/adding_page_1.png" width="500" alt="Ajout de compte"></td>
-    <td><img src="assets/blocking_page.png" width="500" alt="Blocage de compte"></td>
+    <td><img src="assets/adding_page_1.jpg" width="600" alt="Ajout de compte"></td>
+    <td><img src="assets/blocking_page.jpg" width="500" alt="Blocage de compte"></td>
   </tr>
 </table>
