@@ -13,11 +13,31 @@ TaskAgent est une application développée pour [MacOS (26.0 & ultérieur)](http
 Connectez tous les services d'IA que vous utilisez fréquemment (ex: [Claude](https://claude.ai/), [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/), et bien d'autres encore), puis retrouvez-les dans le panneau de gestion de l'application.
 
 Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :  
-|Pastille|Statut|
-|--------|-------|
-|🟢|Disponible|
-|🟠| Limité|
-|🔴|Bloqué|
+<table>
+  <tr>
+    <th>Pastille</th>
+    <th>Statut</th>
+    <th>Exemple</th>
+  </tr>
+
+  <tr>
+    <td>🟢</td>
+    <td>Disponible</td>
+    <td rowspan="3" align="center">
+      <img src="assets/account_status.png" width="600" alt="Exemple">
+    </td>
+  </tr>
+
+  <tr>
+    <td>🟠</td>
+    <td>Limité</td>
+  </tr>
+
+  <tr>
+    <td>🔴</td>
+    <td>Bloqué</td>
+  </tr>
+</table>
 
 
 ### 🕵 Détection semi-autonome des limites d'usage
