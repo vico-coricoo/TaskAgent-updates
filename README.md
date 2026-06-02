@@ -85,7 +85,7 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
   <tr>
     <td><img src="assets/update_popup.png" width="2000" alt="MAJ"></td>
     <td align="left">
-      Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
+      Grâce au dépot GitHub <a href="https://github.com/vico-coricoo/TaskAgent-updates"><i>updates</i></a>, TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
       <br/>
       Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
 Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cliquez sur *Remplacer***
