@@ -9,8 +9,9 @@ TaskAgent est une application développée pour [MacOS (26.0 & ultérieur)](http
 
 
 ### ♾️ Connexion sans limites
+<img src="assets/IASelector.png" width="1500" alt="Sélection de service">
+
 Connectez tous les services d'IA que vous utilisez fréquemment (ex: [Claude](https://claude.ai/), [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/), et bien d'autres encore), puis retrouvez-les dans le panneau de gestion de l'application.
-<img src="assets/IASelector.png" width="750" alt="Sélection de service">
 
 Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :  
 <table>
@@ -61,16 +62,31 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
 
 
 ### 🔔 Notifications
-TaskAgent peut vous envoyez des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
-<img src="assets/notifications.png" width="300" alt="Notifications">
+
+<table>
+  <tr>
+    <td><img src="assets/notifications.png" width="500" alt="Notifications"></td>
+    <td align="left">
+      TaskAgent peut vous envoyez des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🔄 Proposition automatique des mises-à-jour au lancement de l'app
-Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
-<img src="assets/update_popup.png" width="600" alt="MAJ">
 
-Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
+<table>
+  <tr>
+    <td><img src="assets/update_popup.png" width="2000" alt="MAJ"></td>
+    <td align="left">
+      Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
+      <br/>
+      Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
 Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cliquez sur *Remplacer***
+    </td>
+  </tr>
+</table>
 
 
 --------------------------------------------
@@ -78,3 +94,14 @@ Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cl
 #### 🎨 Style de l'app
 TaskAgent reprend le style moderne et épuré de MacOS Tahoe, avec de nombreux effets [*LiquidGlass*](https://www.youtube.com/watch?v=jGztGfRujSE).
 L'application est conçue pour gagner du temps, grâce à son ergonomie et sa simplicité d'usage.
+
+<table>
+  <tr>
+    <th>Page d'ajout de compte</th>
+    <th>Page de blocage de compte</th>
+  </tr>
+  <tr>
+    <td><img src="assets/adding_page_1.png" width="500" alt="Ajout de compte"></td>
+    <td><img src="assets/blocking_page.png" width="500" alt="Blocage de compte"></td>
+  </tr>
+</table>
