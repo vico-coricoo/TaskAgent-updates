@@ -1,5 +1,4 @@
-# TaskAgent : Retrouvez toutes vos IA au même endroit
-
+# <img src="assets/TaskAgent_icon_dark.png" width="27"> TaskAgent : Retrouvez toutes vos IA au même endroit
 
 ### 🎙️ Présentation rapide
 TaskAgent est une application développée pour [MacOS (26.0 & ultérieur)](https://www.apple.com/os/macos/) permettant de gérer facilement tous les comptes dont vous disposez pour vous connectez à une ou plusieurs intelligence(s) artificielle(s).
@@ -11,6 +10,7 @@ TaskAgent est une application développée pour [MacOS (26.0 & ultérieur)](http
 
 ### ♾️ Connexion sans limites
 Connectez tous les services d'IA que vous utilisez fréquemment (ex: [Claude](https://claude.ai/), [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/), et bien d'autres encore), puis retrouvez-les dans le panneau de gestion de l'application.
+<img src="assets/IASelector" width="800" alt="Sélection de service">
 
 Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :  
 <table>
@@ -24,7 +24,7 @@ Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :
     <td>🟢</td>
     <td>Disponible</td>
     <td rowspan="3" align="center">
-      <img src="assets/account_status.png" width="600" alt="Exemple">
+      <img src="assets/account_status.png" width="500" alt="Exemple">
     </td>
   </tr>
 
@@ -62,10 +62,12 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
 
 ### 🔔 Notifications
 TaskAgent peut vous envoyez des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
+<img src="assets/notifications.png" width="500" alt="Notifications">
 
 
 ### 🔄 Proposition automatique des mises-à-jour au lancement de l'app
-Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.  
+Grâce au dépot GitHub [*updates*](https://github.com/vico-coricoo/TaskAgent-updates), TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
+<img src="assets/update_popup.png" width="700" alt="MAJ">
 
 Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
 Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cliquez sur *Remplacer***
