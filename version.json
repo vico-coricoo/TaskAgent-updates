@@ -1,5 +1,5 @@
 {
-    "version": "1.1.05",
-    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.1.05/TaskAgent-Installer-v1.1.05.dmg",
-    "notes": "Cette mise à jour contient des correctifs relatifs à l'installation des MAJs."
+    "version": "1.1.06",
+    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.1.06/TaskAgent-Installer-v1.1.06.dmg",
+    "notes": "Cette mise à jour contient des correctifs et améliorations concernant :\n-La barre de sélection en haut de la fenêtre\n-L'impossibilité d'ajouter un compte en même temps qu'un service."
 }
