@@ -24,7 +24,7 @@ Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :
   <tr>
     <td>🟢</td>
     <td>Disponible</td>
-    <td rowspan="3" align="center">
+    <td rowspan="4" align="center">
       <img src="assets/account_status.png" width="500" alt="Exemple">
     </td>
   </tr>
@@ -37,6 +37,11 @@ Vous y retrouverez tous les comptes ajoutés, ainsi que leur statut actuel :
   <tr>
     <td>🔴</td>
     <td>Bloqué</td>
+  </tr>
+
+  <tr>
+    <td>⚪️</td>
+    <td>Inconnu</td>
   </tr>
 </table>
 
