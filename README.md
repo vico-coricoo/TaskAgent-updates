@@ -115,6 +115,13 @@ L'application est conçue pour gagner du temps, grâce à son ergonomie et sa si
 
 ### 📋 Listing dans la barre des menus
 
-Le menu accessible depuis la barre supérieure de MacOS permet de consulter à n'importe quel moment l'état des différents comptes connectés.
-Cliqez sur un compte disponibles (pastille 🟢 ou 🟠) pour l'ouvrir directement dnas l'application TaskAgent.
-![menubarGIF](menubar_video.gif)
+<table>
+  <tr>
+    <td><img src="assets/menubar_video.gif" width="250" alt="MenubarGIF"></td>
+    <td align="left">
+      Le menu accessible depuis la barre supérieure de MacOS permet de consulter à n'importe quel moment l'état des différents comptes connectés.
+      <br/>
+      Cliqez sur un compte disponibles (pastille 🟢 ou 🟠) pour l'ouvrir directement dnas l'application TaskAgent.
+    </td>
+  </tr>
+</table>
