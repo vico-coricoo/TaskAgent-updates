@@ -87,8 +87,9 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
     <td align="left">
       Grâce au dépot GitHub <a href="https://github.com/vico-coricoo/TaskAgent-updates"><i>updates</i></a>, TaskAgent est capable de détecter automatiquement toute nouvelle version en ligne et vous propose alors de la télécharger.
       <br/>
-      Il sera nécessaire d'ouvrir le nouveau fichier ***.dmg*** et faire un cliquer-glisser de la nouvelle version dans le dossier *Applications*.  
-Le système vous demandera si vous souhaitez remplacer l'ancienne version : **Cliquez sur *Remplacer***
+      <br/>
+      Il sera nécessaire d'ouvrir le nouveau fichier <b><i>.dmg</i></b> et faire un cliquer-glisser de la nouvelle version dans le dossier <i>Applications</i>.  
+Le système vous demandera si vous souhaitez remplacer l'ancienne version : <b>Cliquez sur <i>Remplacer</i></b>
     </td>
   </tr>
 </table>
