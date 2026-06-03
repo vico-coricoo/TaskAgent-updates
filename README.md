@@ -72,7 +72,7 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
   <tr>
     <td><img src="assets/notifications.png" width="500" alt="Notifications"></td>
     <td align="left">
-      TaskAgent peut vous envoyez des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
+      TaskAgent peut vous envoyer des notifications lorsqu'un compte ou un service d'IA arrive au terme de sa durée de blocage. Cela vous permettra donc de travailler à nouveau sans perdre une minute.
     </td>
   </tr>
 </table>
