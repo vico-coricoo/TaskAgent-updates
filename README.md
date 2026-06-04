@@ -61,7 +61,7 @@ L'application propose de multiples raccourcis clavier, permettant d'exécuter du
 - ⌘ ⌥ chiffre → Basculer d'un compte à un autre, au sein d'une même IA
 -
 - ⌘ : → Ouvrir/fermer le panneau flottant
-- ⌘ R → Raffraîchir la page web intégrée
+- ⌘ R → Rafraîchir la page web intégrée
 - ⌘ B → Ouvrir le menu *Blocage*
 - ⌘ , → Ouvrir les paramètres de l'application
 
@@ -121,7 +121,7 @@ L'application est conçue pour gagner du temps, grâce à son ergonomie et sa si
     <td align="left">
       Le menu accessible depuis la barre supérieure de MacOS permet de consulter à n'importe quel moment l'état des différents comptes connectés.
       <br/>
-      Cliqez sur un compte disponibles (pastille 🟢 ou 🟠) pour l'ouvrir directement dnas l'application TaskAgent.
+      Cliquez sur un compte disponible (pastille 🟢 ou 🟠) pour l'ouvrir directement dans l'application TaskAgent.
     </td>
   </tr>
 </table>
