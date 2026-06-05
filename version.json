@@ -1,5 +1,5 @@
 {
-    "version": "1.2.10",
-    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.10/TaskAgent-Installer-v1.2.10.dmg",
-    "notes": "Cette mise à jour limite la consommation excessive de la RAM."
+    "version": "1.2.15",
+    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.15/TaskAgent-Installer-v1.2.15.dmg",
+    "notes": "Ajout de la fonctionnalité Drag & Drop dans la vue Web."
 }
