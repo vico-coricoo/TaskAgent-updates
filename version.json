@@ -1,5 +1,5 @@
 {
-    "version": "1.2.20",
-    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.20/TaskAgent-Installer-v1.2.20.dmg",
-    "notes": "Cette M.A.J. apporte des améliorations relatives à la fenêtre principale et à la détection oportuniste des phrases blocantes."
+    "version": "1.2.25",
+    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.25/TaskAgent-Installer-v1.2.25.dmg",
+    "notes": "Cette M.A.J. corrige un bug de multiplication de processus, qui consommait anormalement la RAM de l'appareil."
 }
