@@ -1,5 +1,5 @@
 {
-    "version": "1.2.50",
-    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.50/TaskAgent-Installer-v1.2.50.dmg",
-    "notes": "Cette M.A.J. apporte la possibilité de télécharger des fichiers directement depuis les pages WEB consultées."
+    "version": "1.2.55",
+    "url": "https://github.com/vico-coricoo/TaskAgent-updates/releases/download/v1.2.55/TaskAgent-Installer-v1.2.55.dmg",
+    "notes": "Cette M.A.J. permet désormais d'ouvrir les liens dans le navigateur par défaut de l'utilisateur."
 }
